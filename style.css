@@ -43,6 +43,7 @@
     justify-content: center;
     text-align:center;
     border-radius: 10px;
+    margin-bottom: 10px;
     }
 
     .timeline {
@@ -159,6 +160,7 @@
       text-align: center;
       border: 1px solid #000;
       margin: 2rem auto;
+      border-right: 0px #2196F3;
     }
     .boxFLEX:nth-child(2) {
       min-width: 20vw;
@@ -166,5 +168,6 @@
       padding: 20px;
       text-align: center;
       border: 1px solid #000;
-      background-color: lightcoral;
+      border-left: 0px #2196F3;
+      background-color: rgba(0, 0, 0, 0.1);
     }
